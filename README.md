@@ -24,4 +24,4 @@ lista
 
 tekst z kodem `print("Hello world")`
 
-![zdj/pies.jpg](zdj/pies.jpg)
+![pies.jpg](pies.jpg)
