@@ -24,4 +24,4 @@ lista
 
 tekst z kodem `print("Hello world")`
 
-![pies.jpg](pies.jpg)
+![pies.png](pies.png)
